@@ -2,13 +2,13 @@
 
 <br/>
 
-## 👻 SeokHyeon Kim // Lob 
+## 👻 SeokHyeon Kim // Lob
 
 Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2 <br/>
 
 <br/>
 
-## 경력 
+## Career 
 - Bolta product engineer. 2024.10 ~ now
 - Kakaostyle backend engineer. 2023.05 ~ 2024.09
 - EstSoft backend engineer. 2021.07 ~ 2023.05
@@ -16,8 +16,19 @@ Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2 <br/>
 
 <br/>
 
-## 커뮤니티 
-### Discord [Join](https://discord.gg/7qNA6tG)<br/>
+## Volunteering
+- Korea Spring User Group (KSUG) Community Organizer. 2024.01 ~ now
+
+<br/>
+
+## Links
+### Korea Spring User Group
+- Linkedin. https://www.linkedin.com/company/%ED%95%9C%EA%B5%AD-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%AA%A8%EC%9E%84-ksug
+- Spring Camp. https://springcamp.ksug.org/
+
+<br/>
+
+### Eric! Discord [Join](https://discord.gg/7qNA6tG)<br/>
 누구나 오셔서 자유롭게 이야기 하실 수 있습니다. <br/>
 오셔서 같이 공부하자고 하시는 분들 매우 환영합니다. <br/>
 음성 채팅을 하며 공부하기도 하고, 모르는 내용에 대해 서로 질의응답을 가지고 있습니다. <br/>
