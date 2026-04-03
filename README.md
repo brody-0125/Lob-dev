@@ -9,22 +9,32 @@ Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2 <br/>
 <br/>
 
 ## Career 
-- Bolta product engineer. 2024.10 ~ now
-- Kakaostyle backend engineer. 2023.05 ~ 2024.09
-- EstSoft backend engineer. 2021.07 ~ 2023.05
-- Niceday backend engineer. 2021.03 ~ 2021.07
+- product engineer @Bolta. 2024.10 ~ now
+- backend engineer @Kakaostyle. 2023.05 ~ 2024.09
+- backend engineer @EstSoft. 2021.07 ~ 2023.05
+- backend engineer @Niceday. 2021.03 ~ 2021.07
 
 <br/>
 
 ## Volunteering
 - Korea Spring User Group (KSUG) Community Organizer. 2024.01 ~ now
+- FOSS for All Ordinary Member. 2026.02 ~ now
+- Staircrusher Club Craw (2026 Spring) 2026.03 ~ 2026. 06
+
+<br/>
+
+## Service
+- nadeuri.today. https://nadeuri.today/
 
 <br/>
 
 ## Open Source
-- dart_tensor_preprocessing. https://pub.dev/packages/dart_tensor_preprocessing
-- dart_sentencepiece_tokenizer. https://pub.dev/packages/dart_sentencepiece_tokenizer
-- dart_bert_tokenizer. https://pub.dev/packages/dart_bert_tokenizer
+- dart_tensor_preprocessing - Tensor preprocessing library for Flutter/Dart. https://pub.dev/packages/dart_tensor_preprocessing
+- dart_sentencepiece_tokenizer - A lightweight, pure Dart implementation of SentencePiece tokenizer. https://pub.dev/packages/dart_sentencepiece_tokenizer
+- dart_bert_tokenizer - A lightweight, pure Dart implementation of BERT WordPiece tokenizer. https://pub.dev/packages/dart_bert_tokenizer
+- signet-core - Java library for W3C VC 2.0 & Open Badges 3.0. https://github.com/brody-0125/signet-core
+- signet-spring-boot-starter - The definitive Spring Boot Starter for signet-core. https://github.com/brody-0125/signet-spring-boot-starter
+- durable_workflow - durable workflow engine for Dart. https://github.com/brody-0125/durable_workflow
 
 <br/>
 
