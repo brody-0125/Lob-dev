@@ -29,12 +29,12 @@ Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2 <br/>
 <br/>
 
 ## Open Source
-- dart_tensor_preprocessing - Tensor preprocessing library for Flutter/Dart. https://pub.dev/packages/dart_tensor_preprocessing
-- dart_sentencepiece_tokenizer - A lightweight, pure Dart implementation of SentencePiece tokenizer. https://pub.dev/packages/dart_sentencepiece_tokenizer
-- dart_bert_tokenizer - A lightweight, pure Dart implementation of BERT WordPiece tokenizer. https://pub.dev/packages/dart_bert_tokenizer
-- signet-core - Java library for W3C VC 2.0 & Open Badges 3.0. https://github.com/brody-0125/signet-core
-- signet-spring-boot-starter - The definitive Spring Boot Starter for signet-core. https://github.com/brody-0125/signet-spring-boot-starter
-- durable_workflow - durable workflow engine for Dart. https://github.com/brody-0125/durable_workflow
+- [dart_tensor_preprocessing](https://pub.dev/packages/dart_tensor_preprocessing) - Tensor preprocessing library for Flutter/Dart. 
+- [dart_sentencepiece_tokenizer](https://pub.dev/packages/dart_sentencepiece_tokenizer) - A lightweight, pure Dart implementation of SentencePiece tokenizer. 
+- [dart_bert_tokenizer](https://pub.dev/packages/dart_bert_tokenizer) - A lightweight, pure Dart implementation of BERT WordPiece tokenizer. 
+- [signet-core](https://github.com/brody-0125/signet-core) - Java library for W3C VC 2.0 & Open Badges 3.0. 
+- [signet-spring-boot-starter](https://github.com/brody-0125/signet-spring-boot-starter) - The definitive Spring Boot Starter for signet-core. 
+- [durable_workflow](https://github.com/brody-0125/durable_workflow) - durable workflow engine for Dart. 
 
 <br/>
 
