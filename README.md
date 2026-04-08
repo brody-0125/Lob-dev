@@ -28,7 +28,7 @@ Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2 <br/>
 
 <br/>
 
-## Open Source
+## Open Source (For testing, experimentation)
 - [dart_tensor_preprocessing](https://pub.dev/packages/dart_tensor_preprocessing) - Tensor preprocessing library for Flutter/Dart. 
 - [dart_sentencepiece_tokenizer](https://pub.dev/packages/dart_sentencepiece_tokenizer) - A lightweight, pure Dart implementation of SentencePiece tokenizer. 
 - [dart_bert_tokenizer](https://pub.dev/packages/dart_bert_tokenizer) - A lightweight, pure Dart implementation of BERT WordPiece tokenizer. 
