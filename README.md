@@ -9,7 +9,7 @@ Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2 <br/>
 <br/>
 
 ## Career 
-- product engineer @Bolta. 2024.10 ~ now
+- product engineer @Bolta. 2024.10 ~ 2026.05
 - backend engineer @Kakaostyle. 2023.05 ~ 2024.09
 - backend engineer @EstSoft. 2021.07 ~ 2023.05
 - backend engineer @Niceday. 2021.03 ~ 2021.07
