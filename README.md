@@ -33,13 +33,13 @@ Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2 <br/>
 ## Open Source
 
 ### Contributed
-- [archive](https://github.com/brendan-duncan/archive)
+- [archive](https://github.com/brendan-duncan/archive) - Dart library to encode and decode various archive and compression formats, such as Zip, Tar, GZip, ZLib, and BZip2.
   - [Fix ZIP EOCD signatures split across search chunks](https://github.com/brendan-duncan/archive/pull/417)
-- [image](https://github.com/brendan-duncan/image)
+- [image](https://github.com/brendan-duncan/image) - Dart Image Library for opening, manipulating, and saving various different image file formats.
   - [fix: preserve source pixels during mixed-axis, cubic, and letterbox resizing](https://github.com/brendan-duncan/image/pull/807)
-- [spring-test-smart-context](https://github.com/seregamorph/spring-test-smart-context)
+- [spring-test-smart-context](https://github.com/seregamorph/spring-test-smart-context) - Improving Spring Boot test efficiency
   - [fix: context cleanup for skipped Jupiter test classes](https://github.com/seregamorph/spring-test-smart-context/pull/33)
-- [spring-test-profiler](https://github.com/PragmaTech-GmbH/spring-test-profiler)
+- [spring-test-profiler](https://github.com/PragmaTech-GmbH/spring-test-profiler) - Speed Up Your Spring Boot Test Suite
   - [fix(report): write HTML reports explicitly as UTF-8](https://github.com/PragmaTech-GmbH/spring-test-profiler/pull/63)
 
 ### i own 
