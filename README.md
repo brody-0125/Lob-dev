@@ -1,4 +1,4 @@
-<img width="3024" height="4032" alt="KakaoTalk_20260921_005848033" src="https://github.com/user-attachments/assets/e2434b7a-24e9-474c-9aa8-1f7758700755" />
+<img width="733" height="633" alt="KakaoTalk_20260921_005956360" src="https://github.com/user-attachments/assets/01220f03-2cfa-46aa-8148-b4bfa72d825d" />
 
 ## 👻 SeokHyeon Kim // Lob | Brody
 
