@@ -1,3 +1,5 @@
+<img width="3024" height="4032" alt="KakaoTalk_20260921_005848033" src="https://github.com/user-attachments/assets/e2434b7a-24e9-474c-9aa8-1f7758700755" />
+
 ## 👻 SeokHyeon Kim // Lob | Brody
 
 Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2 <br/>
@@ -5,23 +7,23 @@ Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2 <br/>
 <br/>
 
 ## Career 
-- backend engineer @42dot. 2026.06 ~ now
-- product engineer @Bolta. 2024.10 ~ 2026.05
-- backend engineer @Kakaostyle. 2023.05 ~ 2024.09
-- backend engineer @EstSoft. 2021.07 ~ 2023.05
-- backend engineer @Niceday. 2021.03 ~ 2021.07
+- 2026.06 ~ now.     Backend Engineer, Operation Platform Team @42dot. 
+- 2024.10 ~ 2026.05. Product Engineer, Product Team @Bolta. 
+- 2023.05 ~ 2024.09. Backend Engineer, Seller & Partner System Team @Kakaostyle. 
+- 2021.07 ~ 2023.05. Backend Engineer, A2 Development Team @EstSoft. 
+- 2021.03 ~ 2021.07. Backend Engineer, Backend Development Team @Niceday.
 
 <br/>
 
 ## Volunteering
-- Community Organizer @Korea Spring User Group (KSUG). 2024.01 ~ now
-- Ordinary Member @FOSS for All. 2026.02 ~ now
-- Craw - 2026 Spring @Staircrusher Club  2026.03 ~ 2026. 06
+- 2024.01 ~ now.      Community Organizer, @Korea Spring User Group (KSUG). 
+- 2026.02 ~ now.      Ordinary Member, @FOSS for All. 
+- 2026.03 ~ 2026. 06. Craw - 2026 Spring, @Staircrusher Club
 - etc..
 
 <br/>
 
-## Service
+## Hosted
 - nadeuri.today. https://nadeuri.today/
 
 <br/>
