@@ -35,6 +35,7 @@ Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2 <br/>
   - [Fix ZIP EOCD signatures split across search chunks](https://github.com/brendan-duncan/archive/pull/417)
 - [image](https://github.com/brendan-duncan/image) - Dart Image Library for opening, manipulating, and saving various different image file formats.
   - [fix: preserve source pixels during mixed-axis, cubic, and letterbox resizing](https://github.com/brendan-duncan/image/pull/807)
+  - [fix: preserve RGBA when expanding canvas without a background](https://github.com/brendan-duncan/image/pull/808)
 - [spring-test-smart-context](https://github.com/seregamorph/spring-test-smart-context) - Improving Spring Boot test efficiency
   - [fix: context cleanup for skipped Jupiter test classes](https://github.com/seregamorph/spring-test-smart-context/pull/33)
 - [spring-test-profiler](https://github.com/PragmaTech-GmbH/spring-test-profiler) - Speed Up Your Spring Boot Test Suite
